@@ -1,0 +1,6 @@
+{
+  "name": "Ten Star Net",
+  "description": "Complete ISP management app for Ten Star Net by Md Samiul Alim featuring dynamic billing, live speed test, admin controls, AI support, and MikroTik automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
